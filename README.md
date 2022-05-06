@@ -8,4 +8,4 @@ This will allow the dataset command to be executed successfully:
 
 **dataset = pd.read_csv("/content/drive/MyDrive/COVID.csv")**
 
-Upload the COVID.csv file onto your Google Drive and it will work.
+Upload the COVID.csv file - found in the COVID.zip archive onto your Google Drive and it will work.
